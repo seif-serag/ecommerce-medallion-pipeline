@@ -1,0 +1,32 @@
+2026-09-24 23:10:57,090 [INFO] Working directory set to: E:\Data Engineering\python\( Python + SQL ) Project
+2026-09-24 23:10:57,092 [INFO]  >>> Connected to Database File <<< 
+2026-09-24 23:10:57,092 [INFO]  >>> File Location: E:\Data Engineering\python\( Python + SQL ) Project\Database.db <<< 
+2026-09-24 23:10:57,092 [INFO] ----------------------------------------------------------------------
+2026-09-24 23:10:58,014 [INFO]  >>> Silver and Quarantine Tables Created Successfully <<< 
+2026-09-24 23:10:58,015 [INFO] ----------------------------------------------------------------------
+2026-09-24 23:10:59,809 [INFO]  >>> Quarantine Population Completed: 1,997 records isolated <<< 
+2026-09-24 23:10:59,810 [INFO] ----------------------------------------------------------------------
+2026-09-24 23:11:01,063 [INFO]  >>> Batch 01 processed: 49,902 rows inserted (Total so far: 49,902) <<<
+2026-09-24 23:11:02,057 [INFO]  >>> Batch 02 processed: 49,892 rows inserted (Total so far: 99,794) <<<
+2026-09-24 23:11:03,033 [INFO]  >>> Batch 03 processed: 49,904 rows inserted (Total so far: 149,698) <<<
+2026-09-24 23:11:04,194 [INFO]  >>> Batch 04 processed: 49,904 rows inserted (Total so far: 199,602) <<<
+2026-09-24 23:11:05,207 [INFO]  >>> Batch 05 processed: 49,906 rows inserted (Total so far: 249,508) <<<
+2026-09-24 23:11:06,161 [INFO]  >>> Batch 06 processed: 49,908 rows inserted (Total so far: 299,416) <<<
+2026-09-24 23:11:07,082 [INFO]  >>> Batch 07 processed: 49,896 rows inserted (Total so far: 349,312) <<<
+2026-09-24 23:11:08,019 [INFO]  >>> Batch 08 processed: 49,888 rows inserted (Total so far: 399,200) <<<
+2026-09-24 23:11:08,961 [INFO]  >>> Batch 09 processed: 49,892 rows inserted (Total so far: 449,092) <<<
+2026-09-24 23:11:09,867 [INFO]  >>> Batch 10 processed: 49,894 rows inserted (Total so far: 498,986) <<<
+2026-09-24 23:11:10,850 [INFO]  >>> Batch 11 processed: 49,881 rows inserted (Total so far: 548,867) <<<
+2026-09-24 23:11:11,837 [INFO]  >>> Batch 12 processed: 49,898 rows inserted (Total so far: 598,765) <<<
+2026-09-24 23:11:12,742 [INFO]  >>> Batch 13 processed: 49,896 rows inserted (Total so far: 648,661) <<<
+2026-09-24 23:11:13,727 [INFO]  >>> Batch 14 processed: 49,904 rows inserted (Total so far: 698,565) <<<
+2026-09-24 23:11:14,722 [INFO]  >>> Batch 15 processed: 49,912 rows inserted (Total so far: 748,477) <<<
+2026-09-24 23:11:15,596 [INFO]  >>> Batch 16 processed: 49,924 rows inserted (Total so far: 798,401) <<<
+2026-09-24 23:11:16,551 [INFO]  >>> Batch 17 processed: 49,892 rows inserted (Total so far: 848,293) <<<
+2026-09-24 23:11:17,379 [INFO]  >>> Batch 18 processed: 49,898 rows inserted (Total so far: 898,191) <<<
+2026-09-24 23:11:18,156 [INFO]  >>> Batch 19 processed: 49,908 rows inserted (Total so far: 948,099) <<<
+2026-09-24 23:11:18,988 [INFO]  >>> Batch 20 processed: 49,904 rows inserted (Total so far: 998,003) <<<
+2026-09-24 23:11:19,005 [INFO] ----------------------------------------------------------------------
+2026-09-24 23:11:19,006 [INFO]  >>> Total Silver Records Inserted: 998,003 <<< 
+2026-09-24 23:11:19,006 [INFO] ----------------------------------------------------------------------
+2026-09-24 23:11:19,039 [INFO]  >>> Database Connection Safely Closed <<< 

@@ -1,0 +1,46 @@
+2026-09-24 23:11:26,183 [INFO] Working directory set to: E:\Data Engineering\python\( Python + SQL ) Project
+2026-09-24 23:11:26,185 [INFO]  >>> Connected to Database File via GoldPipeline <<< 
+2026-09-24 23:11:26,185 [INFO]  >>> Database File: E:\Data Engineering\python\( Python + SQL ) Project\Database.db <<< 
+2026-09-24 23:11:26,185 [INFO] ----------------------------------------------------------------------
+2026-09-24 23:11:26,186 [INFO] ======================================================================
+2026-09-24 23:11:26,186 [INFO]  >>> STARTING GOLD LAYER PIPELINE EXECUTION <<< 
+2026-09-24 23:11:26,189 [INFO] ======================================================================
+2026-09-24 23:11:26,538 [INFO]  >>> Gold Layer Tables Created Successfully <<< 
+2026-09-24 23:11:26,539 [INFO] ----------------------------------------------------------------------
+2026-09-24 23:11:26,539 [INFO]  >>> Building fact_sales via Python streaming... <<< 
+2026-09-24 23:11:27,087 [INFO]  >>> fact_sales: Batch 01 processed (50,000 rows inserted) <<<
+2026-09-24 23:11:27,705 [INFO]  >>> fact_sales: Batch 02 processed (100,000 rows inserted) <<<
+2026-09-24 23:11:28,407 [INFO]  >>> fact_sales: Batch 03 processed (150,000 rows inserted) <<<
+2026-09-24 23:11:29,255 [INFO]  >>> fact_sales: Batch 04 processed (200,000 rows inserted) <<<
+2026-09-24 23:11:29,971 [INFO]  >>> fact_sales: Batch 05 processed (250,000 rows inserted) <<<
+2026-09-24 23:11:30,500 [INFO]  >>> fact_sales: Batch 06 processed (300,000 rows inserted) <<<
+2026-09-24 23:11:31,166 [INFO]  >>> fact_sales: Batch 07 processed (350,000 rows inserted) <<<
+2026-09-24 23:11:31,737 [INFO]  >>> fact_sales: Batch 08 processed (400,000 rows inserted) <<<
+2026-09-24 23:11:32,325 [INFO]  >>> fact_sales: Batch 09 processed (450,000 rows inserted) <<<
+2026-09-24 23:11:32,885 [INFO]  >>> fact_sales: Batch 10 processed (500,000 rows inserted) <<<
+2026-09-24 23:11:33,539 [INFO]  >>> fact_sales: Batch 11 processed (550,000 rows inserted) <<<
+2026-09-24 23:11:34,150 [INFO]  >>> fact_sales: Batch 12 processed (600,000 rows inserted) <<<
+2026-09-24 23:11:34,756 [INFO]  >>> fact_sales: Batch 13 processed (650,000 rows inserted) <<<
+2026-09-24 23:11:35,353 [INFO]  >>> fact_sales: Batch 14 processed (700,000 rows inserted) <<<
+2026-09-24 23:11:35,928 [INFO]  >>> fact_sales: Batch 15 processed (750,000 rows inserted) <<<
+2026-09-24 23:11:36,638 [INFO]  >>> fact_sales: Batch 16 processed (800,000 rows inserted) <<<
+2026-09-24 23:11:37,260 [INFO]  >>> fact_sales: Batch 17 processed (850,000 rows inserted) <<<
+2026-09-24 23:11:37,809 [INFO]  >>> fact_sales: Batch 18 processed (900,000 rows inserted) <<<
+2026-09-24 23:11:38,351 [INFO]  >>> fact_sales: Batch 19 processed (950,000 rows inserted) <<<
+2026-09-24 23:11:38,962 [INFO]  >>> fact_sales: Batch 20 processed (998,003 rows inserted) <<<
+2026-09-24 23:11:38,967 [INFO] ----------------------------------------------------------------------
+2026-09-24 23:11:38,967 [INFO]  >>> fact_sales Completed: 998,003 records loaded <<< 
+2026-09-24 23:11:38,967 [INFO] ----------------------------------------------------------------------
+2026-09-24 23:11:38,986 [INFO]  >>> Processing dim_customers in Python Memory... <<< 
+2026-09-24 23:11:41,820 [INFO]  >>> dim_customers Completed: 30,000 unique customers loaded <<< 
+2026-09-24 23:11:41,821 [INFO] ----------------------------------------------------------------------
+2026-09-24 23:11:41,860 [INFO]  >>> Processing dim_dates in Python Memory... <<< 
+2026-09-24 23:11:42,463 [INFO]  >>> dim_dates Completed: 601 dates loaded <<< 
+2026-09-24 23:11:42,464 [INFO] ----------------------------------------------------------------------
+2026-09-24 23:11:42,465 [INFO]  >>> Aggregating mart_city_performance in Python Memory... <<< 
+2026-09-24 23:11:44,904 [INFO]  >>> mart_city_performance Completed: 18 cities summarized <<< 
+2026-09-24 23:11:44,904 [INFO] ----------------------------------------------------------------------
+2026-09-24 23:11:44,905 [INFO] ======================================================================
+2026-09-24 23:11:44,906 [INFO]  >>> GOLD LAYER PIPELINE COMPLETED SUCCESSFULLY <<< 
+2026-09-24 23:11:44,906 [INFO] ======================================================================
+2026-09-24 23:11:44,909 [INFO]  >>> Database Connection Closed <<< 

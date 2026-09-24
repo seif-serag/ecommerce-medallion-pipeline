@@ -1,0 +1,8 @@
+# Database & Raw Large Files
+*.db
+*.csv
+
+# Python Cache & IDE
+__pycache__/
+*.pyc
+.vscode/

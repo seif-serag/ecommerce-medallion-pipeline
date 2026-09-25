@@ -25,6 +25,10 @@
 ## 📌 Overview
 An end-to-end, high-performance ETL/ELT pipeline processing **1,000,000 transaction records** using the **Medallion Lakehouse Architecture**. The pipeline ingests raw unstructured records, enforces strict schema integrity and data quality quarantining, and models the validated data into an analytics-ready Star Schema and KPI Data Marts using clean Object-Oriented Programming (OOP) principles.
 
+<div align="center">
+  <img src="docs/Project_Data_Warehouse.jpeg" alt="E-Commerce Medallion Architecture Pipeline" width="100%" />
+</div>
+
 ---
 
 ## 🏗️ Medallion Pipeline Architecture
